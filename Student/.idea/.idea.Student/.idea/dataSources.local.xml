@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="@server.database.windows.net" uuid="a5b60f1f-e9ec-4258-b855-fbc1d3dc2ac9">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="AZURE" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <domain-auth>true</domain-auth>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>

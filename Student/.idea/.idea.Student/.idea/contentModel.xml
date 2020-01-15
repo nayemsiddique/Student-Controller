@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nayem Siddique\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Nayem Siddique\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Nayem Siddique\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nayem Siddique\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Student.-88395101.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Nayem Siddique\RiderProjects\Student" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Student" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="StudentController.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20191111091149_agechange.cs" t="Include" />
+          <e p="20191111091149_agechange.Designer.cs" t="Include" />
+          <e p="StudentRepositoryModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Model" t="Include">
+          <e p="Student.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Student.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Repository" t="Include">
+          <e p="IStudentRepository.cs" t="Include" />
+          <e p="StudentRepository.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="IStudentService.cs" t="Include" />
+          <e p="StudentServices.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Student.csproj" t="IncludeRecursive" />
+        <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="Student.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
